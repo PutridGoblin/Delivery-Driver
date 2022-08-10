@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Package
   - Customer
+  - Boost
   layers:
   - Default
   - TransparentFX
@@ -42,4 +43,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Packages & Customers
+    uniqueID: 2683221281
+    locked: 0
+  - name: Boosts & Bumps
+    uniqueID: 3983997627
+    locked: 0
+  - name: Player
+    uniqueID: 3466539291
     locked: 0
